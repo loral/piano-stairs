@@ -67,4 +67,5 @@ while True:
             # else:
             #     piano(i)
         previnputs[i] = curr
-        
+
+
